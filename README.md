@@ -4,8 +4,9 @@ Is your cat overweight? Are you tired of wondering if your cat has already been 
 ## Webpage
 CatFood runs on LAMP and allows easy access from any device on the local network. Additionally, saving the site to the home page on iPhone offers an application-like experience for even more simplicity.  
 
-<img src="screenshots/iphone-ui.png" width="138" height="298">
-
+<p align="center">
+  <img src="screenshots/iphone-ui.png" width="25%">
+</p>
 ![Web UI](screenshots/web-ui.png "Web UI")  
 
 ## Physical Interface
