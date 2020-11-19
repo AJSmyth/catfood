@@ -6,7 +6,8 @@ CatFood runs on LAMP and allows easy access from any device on the local network
 
 <p align="center">
   <img src="screenshots/iphone-ui.png" width="25%">
-</p>
+</p>  
+
 ![Web UI](screenshots/web-ui.png "Web UI")  
 
 ## Physical Interface
