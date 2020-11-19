@@ -6,7 +6,7 @@ CatFood runs on LAMP and allows easy access from any device on the local network
 
 ![iPhone UI](screenshots/iphone-ui.png "iPhone UI")  
 
-![Web UI](screenshots/web-ui "Web UI")  
+![Web UI](screenshots/web-ui.png "Web UI")  
 
 ## Physical Interface
 To make mealtimes effortless, a physical interface can be attached to a RPi to interact with the database.  
