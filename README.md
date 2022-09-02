@@ -1,7 +1,7 @@
 # CatFood UI
 This meal tracker makes communication between family members/housemates easy through internet access and an easy to use physical interface.
 
-## [!Physical Interface Video Demo](https://youtu.be/mRvmaizEMSw)  
+## [Physical Interface Video Demo](https://youtu.be/mRvmaizEMSw)  
 [![Interface Demo](screenshots/thumbnail.jpg)](https://youtu.be/mRvmaizEMSw)  
 
 ## Webpage
